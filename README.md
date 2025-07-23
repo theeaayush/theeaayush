@@ -2,7 +2,7 @@
 
 🎓 B.Tech ECE @ SRM KTR  
 💻 Passionate about Electronics, Code & Future Tech  
-🔭 Exploring everything from Circuits to Code — let's see where it leads!
+🔭 Exploring everything from Circuits to Code let's see where it leads!
 
 ---
 
