@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Aayush 👋
 
-<!--
-**theeaayush/theeaayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech ECE @ SRM KTR  
+💻 Passionate about Electronics, Code & Future Tech  
+🔭 Exploring everything from Circuits to Code — let's see where it leads!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What You'll Find on My GitHub
+
+- 📘 Daily Learning Logs & Practice Repositories  
+- 📂 College Notes & Helpful Resources  
+- 🔧 Personal Projects & Mini Tools 
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 LinkedIn: _Coming Soon_  
+- 💻 GitHub: [@theeaayush](https://github.com/theeaayush)
